@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KnollViewTool::Renderer.copyright 'Anthony Knoll', 'All rights reserved'
+```
 
 ## Development
 
